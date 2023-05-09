@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de satsujinn 👽
 
  <div>
    <a href="https://github.com/satsujinn7">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satsujinn7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satsujinn7&layout=compact&langs_count=6&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satsujinn7&layout=compact&langs_count=6&theme=cobalt"/>
 
 </div>
 <div style="display: inline_block"><br>
