@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Satsujinn 🍁
+## Bem-vindo(a) ao perfil de Satsujinn 🌒
 
  <div>
    <a href="https://github.com/satsujinn7">
